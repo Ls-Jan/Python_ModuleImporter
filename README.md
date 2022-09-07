@@ -12,6 +12,6 @@
 # 怎么用：
 直接下载【XJImporter.py】这个文件，看着注释使用。
 建议下载整个项目，然后试着直接运行每个Test项目中的py文件。
-项目Test1和Test2使用了XJImporter，可以参考一下用法。
+除了项目[test]外其他test项目均使用了XJImporter，可以参考一下用法。
 
 
